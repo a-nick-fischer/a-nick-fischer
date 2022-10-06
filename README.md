@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/a-nick-fischer/a-nick-fischer/raw/main/wallpeper.gif" title="Banner" alt="A Banner, see TL;DR">
+  <img src="https://github.com/a-nick-fischer/a-nick-fischer/raw/main/wallpaper.gif" title="Banner" alt="A Banner, see TL;DR">
 </p>
 
 ---
