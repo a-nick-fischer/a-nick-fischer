@@ -1,4 +1,4 @@
-# Placeholder
+[![asciicast](https://asciinema.org/a/526091.svg)](https://asciinema.org/a/526091)
 
 ---
 ### TL;DR
